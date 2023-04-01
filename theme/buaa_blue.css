@@ -32,6 +32,16 @@ ul ul {
   font-size: 0.9em;
 }
 
+section.chapter {
+  color: var(--color-highlight);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  background-image: none !important;
+  justify-content: center;
+}
+
 section.lead h1 {
   color: var(--color-highlight);
   text-align: left;

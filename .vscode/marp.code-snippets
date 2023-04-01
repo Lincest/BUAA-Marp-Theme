@@ -1,0 +1,38 @@
+{
+	"style-scope": {
+		"scope": "markdown",
+		"prefix": "_ss",
+		"body": [
+			"<style scoped>",
+			"    section {",
+			"        font-size: $1",
+			"    }",
+			"</style>"
+		],
+		"description": "style-scope"
+	},
+	"header": {
+		"scope": "markdown",
+		"prefix": "_header",
+		"body": [
+			"<!-- _header: $1 -->"
+		],
+		"description": "_header"
+	},
+	"chapter": {
+		"scope": "markdown",
+		"prefix": "_chapter",
+		"body": [
+			"<!-- _class: chapter -->"
+		],
+		"description": "_chapter"
+	},
+	"lead": {
+		"scope": "markdown",
+		"prefix": "_lead",
+		"body": [
+			"<!-- _class: lead -->"
+		],
+		"description": "_chapter"
+	}
+}
