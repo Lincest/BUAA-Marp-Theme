@@ -5,8 +5,6 @@ paginate: true
 math: katex
 ---
 
-<!--将下面所有日文翻译成中文 --> 
-
 <!-- _class: lead -->
 
 # Marp学术主题
@@ -77,7 +75,7 @@ def grid2list(grid):
 
 更多marp的[image syntax](https://marpit.marp.app/image-syntax)
 
-![blur:2px width:800px center](./fig/1.jpg) <!-- Setting size to 32x32 px -->
+![blur:2px width:800px center](https://youpai.roccoshi.top/img/202304012252767.jpg)
 
 ---
 
