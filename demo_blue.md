@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: buaa_blue
+theme: buaa_red
 paginate: true
 math: katex
 ---

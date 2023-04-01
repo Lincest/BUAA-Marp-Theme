@@ -4,6 +4,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:wght@100;400&display=swap');
 
 :root {
+  --body-font-size: 0.85em;
+  --body-line-height: 1.5em;
   --color-background: #fff;
   --color-foreground: #333;
   --color-highlight: #034774;
@@ -79,6 +81,17 @@ section.lead p {
   text-align: right;
 }
 
+section p {
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+}
+
+section li {
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+}
+
+
 header {
   background-color: var(--color-highlight);
   margin-right: 25%;
@@ -90,7 +103,7 @@ header {
 blockquote {
   max-width: 90%;
   border-top: 0.1em dashed #555;
-  font-size: 60%;
+  font-size: 70%;
   position: absolute;
   bottom: 20px;
   font-family: "楷体","楷体_GB2312", sans-serif;
@@ -123,7 +136,9 @@ th {
   background-color: #596275 !important;
 }
 
+
 table {
   margin-left: auto;
   margin-right: auto;  
+  font-size: var(--body-font-size);
 }
