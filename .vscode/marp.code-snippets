@@ -1,11 +1,17 @@
 {
 	"style-scope": {
 		"scope": "markdown",
-		"prefix": "_ss",
+		"prefix": "_sscope",
 		"body": [
 			"<style scoped>",
-			"    section {",
-			"        font-size: $1",
+			"    section header {",
+			"        font-size: 1em;",
+			"    }",
+			"    section p {",
+			"        font-size: 1em;",
+			"    }",
+			"    section li {",
+			"        font-size: .9em;",
 			"    }",
 			"</style>"
 		],
