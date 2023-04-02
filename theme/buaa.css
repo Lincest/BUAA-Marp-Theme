@@ -29,6 +29,7 @@ section {
 
 section::after {
   font-weight: 700;
+  color: var(--color-foreground);
   content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
 }
 
