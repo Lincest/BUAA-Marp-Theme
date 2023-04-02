@@ -25,3 +25,16 @@ for more commands, see: https://github.com/marp-team/marp-cli
 ## Example
 
 [DEMO](https://youpai.roccoshi.top/img/buaa_theme_demo.html)
+
+![](readme.assets/buaa.001.jpg)
+![](readme.assets/buaa.002.jpg)
+![](readme.assets/buaa.003.jpg)
+![](readme.assets/buaa.004.jpg)
+![](readme.assets/buaa.005.jpg)
+![](readme.assets/buaa.006.jpg)
+![](readme.assets/buaa.007.jpg)
+![](readme.assets/buaa.008.jpg)
+![](readme.assets/buaa.009.jpg)
+
+
+
