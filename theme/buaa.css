@@ -169,3 +169,7 @@ table {
   margin-right: auto;  
   font-size: var(--body-font-size);
 }
+
+pre::part(auto-scaling) {
+  max-height: calc(580px - 2em);
+}
