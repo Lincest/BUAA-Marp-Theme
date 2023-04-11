@@ -116,12 +116,13 @@ header {
 }
 
 blockquote {
-  max-width: 90%;
+  max-width: 85%;
   border-top: 0.1em dashed #555;
   font-size: 70%;
   position: absolute;
   bottom: 20px;
   font-family: "楷体","楷体_GB2312", sans-serif;
+  padding: 0 0.5em;
 }
 
 blockquote::before {
@@ -130,6 +131,12 @@ blockquote::before {
 
 blockquote::after {
   content: "";
+}
+
+blockquote p {
+  text-align: left !important;
+  margin: 0;
+  padding: 0;
 }
 
 img[alt~="center"] {
