@@ -22,6 +22,19 @@ npx @marp-team/marp-cli@latest demo_red.md -o demo_red.html --theme-set ./theme 
 
 for more commands, see: https://github.com/marp-team/marp-cli
 
+to have a preview in vscode, you could add below to your `settings.json`: 
+
+```json
+{
+    // ...
+    "markdown.marp.themes": [
+        "https://raw.githubusercontent.com/Lincest/BUAA-Marp-Theme/master/theme/buaa_red.css",
+        "https://raw.githubusercontent.com/Lincest/BUAA-Marp-Theme/master/theme/buaa.css",
+        "https://raw.githubusercontent.com/Lincest/BUAA-Marp-Theme/master/theme/buaa_blue.css"
+    ],
+}
+```
+
 ## Example
 
 [DEMO](https://youpai.roccoshi.top/img/buaa_theme_demo.html)
