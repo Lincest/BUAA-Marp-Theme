@@ -152,6 +152,11 @@ pre {
   border-radius: 10px;
 }
 
+section ol, ul {
+  margin-top: .5em;
+  margin-bottom: .1em;
+}
+
 code {
   border-radius: 15px !important;
   background-color: var(--color-code-background);
