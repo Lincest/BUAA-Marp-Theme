@@ -93,7 +93,7 @@ $$
 
 下图是一张居中的模糊图片, 更多marp的[图片语法请参考](https://marpit.marp.app/image-syntax)
 
-![blur:2px width:800px center](https://youpai.roccoshi.top/img/202304012252767.jpg)
+![blur:2px width:800px center](https://i.imgur.com/rruErG9.jpg)
 
 ---
 

@@ -17,7 +17,13 @@ feature:
 export to html: 
 
 ```shell
-npx @marp-team/marp-cli@latest demo_red.md -o demo_red.html --theme-set ./theme --pdf-outlines --allow-local-files
+npx @marp-team/marp-cli@latest buaa.md -o buaa.html --theme-set ./theme --pdf-outlines --allow-local-files
+```
+
+export to pdf: 
+
+```shell
+npx @marp-team/marp-cli@latest buaa.md -o buaa.pdf --theme-set ./theme --pdf-outlines --allow-local-files
 ```
 
 for more commands, see: https://github.com/marp-team/marp-cli
@@ -36,8 +42,6 @@ to have a preview in vscode, you could add below to your `settings.json`:
 ```
 
 ## Example
-
-[DEMO](https://youpai.roccoshi.top/img/buaa_theme_demo.html)
 
 ![](readme.assets/buaa.001.jpg)
 ![](readme.assets/buaa.002.jpg)
